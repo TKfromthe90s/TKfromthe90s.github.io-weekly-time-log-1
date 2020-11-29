@@ -35,7 +35,7 @@
 - Installed Unreal Engine 4 successfully on secondary computer
 - Established prototype of side scroller game from template provided by Unreal Engine
 
-# Total Hours For Week
+# Total Hours Spent
 - 16
 
 
